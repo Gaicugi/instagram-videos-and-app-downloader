@@ -44,7 +44,7 @@ background_label = Label(frame, image = background_image)
 background_label.place(relx=-0.25,relwidth = 0.7, relheight =1)
 
 
-label1 = Label(frame, text = "Download Reels in a Click!", font =FONT, bd =5, fg= "#0d1137",bg="white")
+label1 = Label(frame, text = "Download Reels!", font =FONT, bd =5, fg= "#0d1137",bg="white")
 label1.place(relx = 0.48, rely = 0.1, relheight =0.1)
 
 
